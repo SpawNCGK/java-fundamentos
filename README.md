@@ -1,19 +1,15 @@
-# Sistema de Cadastro em Java
+# Java Fundamentos
 
-Projeto simples desenvolvido para praticar conceitos de orientação a objetos e operações CRUD em Java.
+Projeto criado para estudar os fundamentos da linguagem Java.
 
-## Funcionalidades
-
-- Cadastro de clientes
-- Listagem de clientes
-- Atualização de dados
-- Remoção de clientes
+## Conteúdos estudados
+- Variáveis
+- Estruturas condicionais
+- Laços de repetição
+- Métodos
+- Orientação a objetos
 
 ## Tecnologias
-
 - Java
-- Programação Orientada a Objetos
-
-## Objetivo
-
-Praticar organização de código, lógica de programação e estruturação de aplicações.
+- Git
+- GitHub
