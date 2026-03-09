@@ -1,16 +1,19 @@
 # Sistema de Cadastro em Java
 
-Projeto simples desenvolvido em Java para praticar conceitos de orientação a objetos e operações CRUD.
+Projeto simples desenvolvido para praticar conceitos de orientação a objetos e operações CRUD em Java.
 
 ## Funcionalidades
+
 - Cadastro de clientes
 - Listagem de clientes
 - Atualização de dados
-- Remoção de registros
+- Remoção de clientes
 
 ## Tecnologias
+
 - Java
 - Programação Orientada a Objetos
 
 ## Objetivo
-Praticar lógica de programação e estruturação de código.
+
+Praticar organização de código, lógica de programação e estruturação de aplicações.
